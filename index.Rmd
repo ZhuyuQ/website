@@ -1,0 +1,17 @@
+---
+title: "About Me"
+---
+
+
+- __Name:__ Zhuyu Qiu
+- __Ocupation:__ "Student"
+- __Hobbies:__ Dancing, reading, traveling, painting. 
+- __Academic:__ [Academic](Academic.html)
+- __Experience:__ 
+[My interships and research experience](experience.html)
+
+
+
+<img src="biye1_2.jpeg" style="width:45%; display: block; margin-left: auto; margin-right: auto; ">
+
+

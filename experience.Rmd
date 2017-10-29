@@ -1,0 +1,48 @@
+---
+title: "Academic"
+---
+### Internship
+#####CENTER FOR DISEASE CONTROL, Huzhou Zhejiang Province China
+Data Analysis Intern, Chronic Non-infectious Disease Prevent and Control Division July.2016
+
+- Monitored and controlled the city’s death causes along with chronic non-infectious diseases.
+- Collected statistical data of blood pressure measuring of those who took the initial diagnosis at the age of
+35 (and above) in local medical institutions.
+
+Data Analysis Intern, Infectious Disease Prevent and Control Division July.2016
+
+- Launched supervision and resistance detection on vector organism (e.g. aedes albopictus), and guided the
+drug delivery at the plague source, during the G20 Summit.
+- Analyzed basic data, calculated each county’s Breteau Index and marked the level of risk.
+
+###Research experience
+
+#####Detectation of rice functional variation ad application in excavating tillering-related genes Beijing, China
+
+Research Associate,   Oct. 2016-May. 2017
+
+- Investigated and analyzed rice samples’ tillering phenotypes.
+- Annotated the natural amino acid mutation for each gene among rice genomes by using Perl.
+- Conducted t-test and ANOVA for the amino acid mutation, as well as the routine GWAS for SNPs by using
+the general linear model. Compared the results to find out overlapping genes and QTLs.
+- Compared the overlaps with reported SNPs and QTLs, indicating this new single amino acid
+polymorphism based GWAS analysis provides a novel idea to seek significant loci in plant genomes.
+
+#####A correlation study on immunity of the Peking duck-white leghorns chimera formed by chorda dorsalis injection Beijing, China
+
+Beijing Innovation Project, Project Leader,   Oct.2014-May.2016
+
+- Segregated, differentiated, and validated Peking duck bone marrow mesenchymal stem cells.
+- Utilized the chorda dorsalis injection method to establish chimera model. Enhanced chimerism via
+improving conditions.
+- Observed the migration of fluorescence-marked donor cells via fluorescence microscope.
+
+#####The cultivation of transgenic tobacco Beijing, China
+Research Associate,   Oct. 2015-May. 2016
+
+- Extracted plasmid DNA and acquire target fragment GUS gene expression cassette. Constructed the
+recombinant plasmid and transformed it into competent cells of Escherichia coli.
+- Transformed T-DNA (with GUS gene) into tobacco via the leaf-disc method of agrobacterium tumefaciens
+mediation.
+- Regenerated and identified tobacco plants via total RNA extraction of leaves and Northern blot.
+
