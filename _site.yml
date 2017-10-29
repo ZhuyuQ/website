@@ -10,5 +10,4 @@ navbar:
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/zhuyu-‘eliana’-qiu-7b3ba0151/
 output:
-  html_document:
-  theme: cosmo
+  html_document

@@ -13,3 +13,4 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 BuildType: Website
+WebsitePath: ~/Documents/classes/DSI P8105/HomeWork/p8105_hw4_zq2157/website
